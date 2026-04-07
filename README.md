@@ -1,5 +1,4 @@
 # Bank-Operation
-1 – Python - Script
-2 – Function based
-3 – Using Python Libraries: random
-Concept of my project: - Bank operation using Function Based view. This is a basic Online Banking Concept created using Python, it contains various functions which include create an account which is auto-generated, deposit money, withdraw amount & check balance. The list and dictionary is used to store the account number, balance, name of a person and pin no.
+Technologies & Concepts Used: Python Functions, Dictionary (as database), File Handling (JSON), Python Standard Library (random), Conditional Statements, Loops, Basic Authentication Logic.
+Concept of the Project: This project is a command-line based banking system developed in Python. It allows users to perform essential banking operations such as account creation, login authentication, deposit, withdrawal, and balance inquiry.
+The system uses a JSON file for data storage, ensuring persistence of user data even after the program is closed.
